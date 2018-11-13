@@ -4,15 +4,97 @@
 
 What do you care about?
 
++ Children
++ Animals
++ Books
 
 What do you know about?
 
++ Health Benefits Data
 
 What decisions do you face?
 
++ Where to live
++ What is my next job
++ Finding good schools
++ Dog food for dog with allergies
 
 ## Seven templates
 (Copy-paste for each topic)
+
+### Children
+
+1. Geographic Variation
+
++ Highest quality of hospital care by location
++ Highest quality of schooling by location
++ Number of Children per family by location
+
+2. Trend related to the news
+
++ Screen time affect on cognitive ability
+
+3. Who does that?
+
+
+4. Answering a question people care about
+
+
+5. Valuable to businesses
+
+
+6. What's the most popular?
+
+
+7. Cost/Money rankings
+
++ Cost of birth by geographic location
+
+### Animals
+
+1. Geographic Variation
+
+
+2. Trend related to the news
+
+
+3. Who does that?
+
+
+4. Answering a question people care about
+
+
+5. Valuable to businesses
+
+
+6. What's the most popular?
+
+
+7. Cost/Money rankings
+
+### Books
+
+1. Geographic Variation
+
+
+2. Trend related to the news
+
+
+3. Who does that?
+
+
+4. Answering a question people care about
+
+
+5. Valuable to businesses
+
+
+6. What's the most popular?
+
+
+7. Cost/Money rankings
+
+### Health Benefits
 
 1. Geographic Variation
 
