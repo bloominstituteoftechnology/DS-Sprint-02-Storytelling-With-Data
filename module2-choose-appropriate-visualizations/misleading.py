@@ -38,9 +38,9 @@ def plot4():
     # Based on https://altair-viz.github.io/gallery/choropleth_repeat.html
     import altair as alt
     from vega_datasets import data
-    alt.renderers.enable('notebook')
 
-    df = pd.read_csv('direct_written_premium_by_state_by_group_private_passenger_auto.csv')
+    url = 'https://raw.githubusercontent.com/LambdaSchool/DS-Sprint-02-Storytelling-With-Data/master/module2-choose-appropriate-visualizations/direct_written_premium_by_state_by_group_private_passenger_auto.csv'
+    df = pd.read_csv(url)
     df.rename(columns={'STATE FARM GRP': 'State Farm policy premiums'}, inplace=True)
     variable = 'State Farm policy premiums'
 
