@@ -50,7 +50,7 @@ What data storytelling example inspires you?
 Could you do a new hypothesis, for the same question?
 
 
-Could you do an new question, for the same topic?
+Could you do a new question, for the same topic?
 
 
 Could you do a new topic, with the same "style"?
