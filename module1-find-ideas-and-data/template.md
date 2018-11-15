@@ -1,4 +1,6 @@
 # Ideas for data storytelling
+https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r
+
 
 ## You
 
@@ -60,3 +62,4 @@ Could you do a new topic, with the same "style"?
 (Copy-paste for each topic)
 
 How could you search for data about your topic?
+
